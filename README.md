@@ -31,4 +31,4 @@ The following questions were answered:
 2. Females had a pass mark of 64, 73 and 72 in maths, reading and writing respectively while males had a passmark of 69, 65 and 63 in maths, reading and writing respectively.
 
 ## Note
-1. The pass rate is gotten by the avegrage mark gret=ater than or equal to the general pass mark which is 68.
+1. The pass rate is gotten by the average mark grater than or equal to the general pass mark which is 68.
